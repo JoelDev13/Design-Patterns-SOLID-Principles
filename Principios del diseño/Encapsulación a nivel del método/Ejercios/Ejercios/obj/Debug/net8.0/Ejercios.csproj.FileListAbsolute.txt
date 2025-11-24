@@ -1,0 +1,14 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\bin\Debug\net8.0\Ejercios.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\bin\Debug\net8.0\Ejercios.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\bin\Debug\net8.0\Ejercios.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\bin\Debug\net8.0\Ejercios.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\bin\Debug\net8.0\Ejercios.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\refint\Ejercios.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\Ejercios.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Encapsula lo que varía\Encapsulación a nivel del método\Ejercios\Ejercios\obj\Debug\net8.0\ref\Ejercios.dll

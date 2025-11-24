@@ -1,0 +1,14 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\bin\Debug\net8.0\Ejercio.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\bin\Debug\net8.0\Ejercio.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\bin\Debug\net8.0\Ejercio.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\bin\Debug\net8.0\Ejercio.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\bin\Debug\net8.0\Ejercio.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\refint\Ejercio.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\Ejercio.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Principios del diseño\Programa a una interfaz, no a una implementación\Ejercio\Ejercio\obj\Debug\net8.0\ref\Ejercio.dll
