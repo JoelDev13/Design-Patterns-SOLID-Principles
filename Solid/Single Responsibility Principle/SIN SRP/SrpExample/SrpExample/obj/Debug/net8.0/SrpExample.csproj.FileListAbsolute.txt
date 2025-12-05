@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\bin\Debug\net8.0\SrpExample.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\bin\Debug\net8.0\SrpExample.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\bin\Debug\net8.0\SrpExample.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\bin\Debug\net8.0\SrpExample.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\bin\Debug\net8.0\SrpExample.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.sourcelink.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\refint\SrpExample.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\SrpExample.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Single Responsibility Principle\SIN SRP\SrpExample\SrpExample\obj\Debug\net8.0\ref\SrpExample.dll
