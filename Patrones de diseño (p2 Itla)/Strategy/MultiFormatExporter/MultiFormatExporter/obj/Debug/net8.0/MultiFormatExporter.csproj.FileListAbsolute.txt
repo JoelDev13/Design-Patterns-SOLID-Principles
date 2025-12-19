@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\bin\Debug\net8.0\MultiFormatExporter.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\bin\Debug\net8.0\MultiFormatExporter.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\bin\Debug\net8.0\MultiFormatExporter.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\bin\Debug\net8.0\MultiFormatExporter.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\bin\Debug\net8.0\MultiFormatExporter.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\refint\MultiFormatExporter.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\MultiFormatExporter.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Strategy\MultiFormatExporter\MultiFormatExporter\obj\Debug\net8.0\ref\MultiFormatExporter.dll

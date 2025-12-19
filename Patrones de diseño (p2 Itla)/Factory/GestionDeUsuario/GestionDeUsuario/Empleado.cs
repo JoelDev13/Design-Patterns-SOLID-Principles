@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GestionDeUsuario
+{
+    public class Empleado : IInformacion
+    {
+
+        public void Usuario()
+        {
+            Console.WriteLine("soy un empleado");
+        }
+    }
+}

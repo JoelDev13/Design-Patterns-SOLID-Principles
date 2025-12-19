@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\bin\Debug\net8.0\SistemaDeRelojes.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\bin\Debug\net8.0\SistemaDeRelojes.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\bin\Debug\net8.0\SistemaDeRelojes.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\bin\Debug\net8.0\SistemaDeRelojes.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\bin\Debug\net8.0\SistemaDeRelojes.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\refint\SistemaDeRelojes.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\SistemaDeRelojes.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\SistemaDeRelojes\SistemaDeRelojes\obj\Debug\net8.0\ref\SistemaDeRelojes.dll

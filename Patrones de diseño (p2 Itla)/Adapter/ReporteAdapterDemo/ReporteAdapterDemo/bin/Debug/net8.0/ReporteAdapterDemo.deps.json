@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReporteAdapterDemo/1.0.0": {
+        "runtime": {
+          "ReporteAdapterDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReporteAdapterDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

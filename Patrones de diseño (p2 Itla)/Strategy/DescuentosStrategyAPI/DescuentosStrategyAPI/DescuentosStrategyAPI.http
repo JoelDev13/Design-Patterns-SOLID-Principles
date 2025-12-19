@@ -1,0 +1,6 @@
+@DescuentosStrategyAPI_HostAddress = http://localhost:5026
+
+GET {{DescuentosStrategyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

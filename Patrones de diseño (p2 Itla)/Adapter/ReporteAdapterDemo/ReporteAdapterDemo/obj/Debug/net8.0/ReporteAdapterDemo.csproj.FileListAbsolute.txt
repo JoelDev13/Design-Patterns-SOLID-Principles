@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\bin\Debug\net8.0\ReporteAdapterDemo.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\bin\Debug\net8.0\ReporteAdapterDemo.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\bin\Debug\net8.0\ReporteAdapterDemo.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\bin\Debug\net8.0\ReporteAdapterDemo.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\bin\Debug\net8.0\ReporteAdapterDemo.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\refint\ReporteAdapterDemo.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ReporteAdapterDemo.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\ReporteAdapterDemo\ReporteAdapterDemo\obj\Debug\net8.0\ref\ReporteAdapterDemo.dll

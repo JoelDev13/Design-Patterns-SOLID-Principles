@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\bin\Debug\net8.0\NotificadorAdapterDemo.exe
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\bin\Debug\net8.0\NotificadorAdapterDemo.deps.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\bin\Debug\net8.0\NotificadorAdapterDemo.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\bin\Debug\net8.0\NotificadorAdapterDemo.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\bin\Debug\net8.0\NotificadorAdapterDemo.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.sourcelink.json
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\refint\NotificadorAdapterDemo.dll
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.pdb
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\NotificadorAdapterDemo.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Mi roadmap backend\Patrones De Diseños c#\Adapter\NotificadorAdapterDemo\NotificadorAdapterDemo\obj\Debug\net8.0\ref\NotificadorAdapterDemo.dll
