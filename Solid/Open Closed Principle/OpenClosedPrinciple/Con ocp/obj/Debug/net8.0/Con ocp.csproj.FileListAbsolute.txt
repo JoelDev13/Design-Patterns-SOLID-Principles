@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.sourcelink.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\bin\Debug\net8.0\Con ocp.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\bin\Debug\net8.0\Con ocp.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\bin\Debug\net8.0\Con ocp.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\bin\Debug\net8.0\Con ocp.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\bin\Debug\net8.0\Con ocp.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\refint\Con ocp.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\Con ocp.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Con ocp\obj\Debug\net8.0\ref\Con ocp.dll

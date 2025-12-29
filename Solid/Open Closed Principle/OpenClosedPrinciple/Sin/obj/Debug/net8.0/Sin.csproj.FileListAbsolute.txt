@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\bin\Debug\net8.0\Sin.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\bin\Debug\net8.0\Sin.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\bin\Debug\net8.0\Sin.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\bin\Debug\net8.0\Sin.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\bin\Debug\net8.0\Sin.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.sourcelink.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\refint\Sin.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\Sin.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Open Closed Principle\OpenClosedPrinciple\Sin\obj\Debug\net8.0\ref\Sin.dll

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Con OCP", "Con OCP", "{B2332C03-2EF3-45E2-B956-735815C24F19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sin OCP", "Sin OCP", "{707AE42D-ED31-4697-962F-66778509408D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sin", "Sin\Sin.csproj", "{361AFD2E-0585-4E03-A29B-BCC4EC0C2F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Con ocp", "Con ocp\Con ocp.csproj", "{4D2C5EC1-54A4-486E-82C6-A08672C44044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361AFD2E-0585-4E03-A29B-BCC4EC0C2F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361AFD2E-0585-4E03-A29B-BCC4EC0C2F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361AFD2E-0585-4E03-A29B-BCC4EC0C2F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361AFD2E-0585-4E03-A29B-BCC4EC0C2F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2C5EC1-54A4-486E-82C6-A08672C44044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2C5EC1-54A4-486E-82C6-A08672C44044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2C5EC1-54A4-486E-82C6-A08672C44044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2C5EC1-54A4-486E-82C6-A08672C44044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{361AFD2E-0585-4E03-A29B-BCC4EC0C2F96} = {707AE42D-ED31-4697-962F-66778509408D}
+		{4D2C5EC1-54A4-486E-82C6-A08672C44044} = {B2332C03-2EF3-45E2-B956-735815C24F19}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A970E7E4-3C16-4984-B248-D8D07E701CBB}
+	EndGlobalSection
+EndGlobal
