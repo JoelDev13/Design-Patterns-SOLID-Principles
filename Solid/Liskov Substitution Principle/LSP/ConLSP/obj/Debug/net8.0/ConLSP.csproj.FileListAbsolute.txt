@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\bin\Debug\net8.0\ConLSP.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\bin\Debug\net8.0\ConLSP.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\bin\Debug\net8.0\ConLSP.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\bin\Debug\net8.0\ConLSP.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\bin\Debug\net8.0\ConLSP.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.sourcelink.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\refint\ConLSP.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ConLSP.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Liskov Substitution Principle\LSP\ConLSP\obj\Debug\net8.0\ref\ConLSP.dll
