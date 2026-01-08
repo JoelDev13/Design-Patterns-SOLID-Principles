@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\bin\Debug\net8.0\ConISP.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\bin\Debug\net8.0\ConISP.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\bin\Debug\net8.0\ConISP.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\bin\Debug\net8.0\ConISP.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\bin\Debug\net8.0\ConISP.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.sourcelink.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\refint\ConISP.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ConISP.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Solid\Interface Segregation Principle\ISP\ConISP\obj\Debug\net8.0\ref\ConISP.dll
