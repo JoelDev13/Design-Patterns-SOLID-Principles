@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.sourcelink.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\bin\Debug\net8.0\Ejercio1.exe
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\bin\Debug\net8.0\Ejercio1.deps.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\bin\Debug\net8.0\Ejercio1.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\bin\Debug\net8.0\Ejercio1.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\bin\Debug\net8.0\Ejercio1.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\refint\Ejercio1.dll
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.pdb
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\Ejercio1.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Design Patterns & SOLID Principles\Patrones de diseño\Patrones creacionales\Singleton\Ejercio1\Ejercio1\obj\Debug\net8.0\ref\Ejercio1.dll
